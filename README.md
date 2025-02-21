@@ -8,6 +8,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sai-anagha-j-a019b3259/" target="blank"><img align="center"  height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sai-anagha-j-a019b3259/" target="blank">src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"<img align="center"  height="30" width="40" /></a>
 </p>
 
