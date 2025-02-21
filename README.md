@@ -1,6 +1,10 @@
-## Hi👋,I'm Sai Anagha J
-<h1 align="center">Hi 👋, I'm Abhinav</h1>
+<h1 align="center">Hi 👋, I'm Sai Anagha J</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+🌱 I’m currently learning **AI , CLOUD COMPUTING **
+
+- 💬 Ask me about **Data Science ,Power BI , C++ ,C,OOPS**
+
+- 📫 How to reach me **saianaghajana10@gmail.com**
 <!--
 A passionate frontend developer from India
 
