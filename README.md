@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **saianaghajana10@gmail.com**
 
-- ⚡ Fun fact **I think I know everything I have learnt.**
 
 - <h3 align="left">Connect with me:</h3>
 <p align="left">
